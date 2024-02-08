@@ -1,10 +1,10 @@
 [{
     "prompt": "agente digital asesorando a una empresa sustentable",
-    "img": "/assets/dalle/_3daab5c7-fb9c-43cc-bed8-48ba3f956bb1.jfif"
+    "img": "./assets/dalle/_3daab5c7-fb9c-43cc-bed8-48ba3f956bb1.jfif"
 },
 {
     "prompt": "empresa sostenible que busque digitalizarse con herramientas",
-    "img": "/assets/dalle/_b8b51167-f961-4520-9a85-087d2fc0e349.jfif"
+    "img": "./assets/dalle/_b8b51167-f961-4520-9a85-087d2fc0e349.jfif"
 },
 {
     "prompt": "agencia digital de empresas sustentables de color mostaza y la bandera argentina de fondo en una ciudad gigante",
@@ -12,6 +12,6 @@
 },
 {
     "prompt": "auto eléctrico color mostaza con el texto CONSULTECCNIA en su capó, y de fondo una ciudad futurista ambiental con el obelisco",
-    "img": "../assets/dalle/_28ff785e-8725-41a9-85a2-b6f015e1c501.jfif"
+    "img": "./assets/dalle/_28ff785e-8725-41a9-85a2-b6f015e1c501.jfif"
 }
 ]
