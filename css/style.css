@@ -6,6 +6,10 @@ body{
 .navbar{
     background-color: #FFDE59!important;
 }
+.h2-objectives{
+    background-color: #FFDE59;
+    color: black;
+}
 #prompts{
     background: linear-gradient(180deg, #FFDE59, #FFEE10);
 }
